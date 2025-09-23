@@ -18,7 +18,7 @@ And this is my Portofolio:
 - <a href="https://github.com/AuraSA2439/Radiology-Information-System">Radiology Information System</a>
 - <a href="https://github.com/AuraSA2439/Hospital-Website-with-Sidebar-pratice-">Hospital Profile Website with Resposive Side Menu</a>
 - <a href="https://github.com/AuraSA2439/washwiz">Laundry Application (Unfinished)</a>
-- <a href="https://github.com/AuraSA2439/Seefud-Frontend">SeeFud, a food tracing mobile app</a>
+- <a href="https://github.com/AuraSA2439/Seefud-Frontend">SeeFud, a Food Tracing Mobile App</a>
 
 ### Github Statistic
 <p align="left">
