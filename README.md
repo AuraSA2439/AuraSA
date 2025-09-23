@@ -21,9 +21,15 @@ And this is my Portofolio:
 
 ### Github Statistic
 <p align="left">
-<!-- <a href="https://github.com/penuliscode">
+<a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a> -->
+</a>
 </p>
-<!-- <bold>PS: The statics hasn't been updated.</bold> -->
+<bold>PS: The statics hasn't been updated.</bold>
+
+### 🤳 Connect with me:
+
+[<img align="left" alt="AuraSA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!-- [linkedin]: https://linkedin.com/in/AuraSA -->
